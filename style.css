@@ -1,9 +1,20 @@
 #title{
 	font-family: helvetica;
 	font-weight: bold;
+	color: white;
 }
 
 #logo{
 	height: 80px;
 	width: 80px;
+	border-radius: 50px;
+}
+
+body {
+	background-color: red;
+}
+
+.container{
+	text-align: center;
+	padding: 380px;
 }
