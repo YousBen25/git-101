@@ -1,0 +1,13 @@
+.dropdown-menu {
+	box-shadow: none;
+	position: absolute;
+	left: -90px;
+	transform: translate3d(-5px, 50px, 0px);
+	top: 10px;
+	will-change: transform;
+} 
+
+.dropdown-menu a {
+	font-weight: lighter !important;
+	color: #9999999 !important;
+} 
